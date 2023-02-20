@@ -1,9 +1,12 @@
-Template for the Read the Docs tutorial
+MetaPUF: Documentation
+
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+The MetaPUF documentation is split into the following pages:
 
-Read the tutorial here:
+Usage
+    An overview of how the pipeline works, how to run it and a description of all of the different command-line flags.
+Output
+    An overview of the different results produced by the pipeline and how to interpret them.
 
-https://docs.readthedocs.io/en/stable/tutorial/
+You can find a lot more documentation about installing, configuring and running nf-core pipelines on the website: 
