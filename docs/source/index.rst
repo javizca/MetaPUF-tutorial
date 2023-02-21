@@ -12,18 +12,17 @@ Current version: 0.10, October 01, 2022
 
 -  ``Python version: > 3.8``
 
-Documentation
-~~~~~~~~~~~~~
+Contents
+--------
 
--  ``On readthedocs``
+.. toctree::
 
-Issues
-~~~~~~
-
--  ``On github``
+   usage
+   api
 
 How to cite
 ~~~~~~~~~~~
 
 Contributors
 ~~~~~~~~~~~~
+
