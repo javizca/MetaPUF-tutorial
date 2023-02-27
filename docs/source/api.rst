@@ -1,9 +1,9 @@
 **Overview**
 ============
 
-This workflow offers the users to integrate publicly available
-metagenomics, metatranscriptomics and metaproteomics datasets on PRIDE
-and MGnify portals.
+This MetaPUF workflow offers the users the integration of publicly available
+metagenomics, metatranscriptomics and metaproteomics datasets in PRIDE
+and MGnify.
 
 +-------------------+-----------------------------+-------------------+
 | Software          | Version                     | Purpose           |
@@ -47,7 +47,7 @@ and MGnify portals.
 |                   |                             | proteomics        |
 |                   |                             | identification    |
 |                   |                             | results from      |
-|                   |                             | multiple search   |
+|                   |                             | multiple searches |
 |                   |                             | and generate      |
 |                   |                             | peptide and       |
 |                   |                             | protein reports.  |
@@ -59,14 +59,14 @@ github <https://github.com/PRIDE-reanalysis/MetaPUF.git>`__
 **Workflow**
 ============
 
-The sankemake workflow consists of three modules.
+The snakemake workflow consists of three modules.
 
--  Generating protein sequence database/(s)
+-  Generating protein sequence database/(s).
 
--  Mass-spectrometry based metaproteomics analysis
+-  Mass-spectrometry based metaproteomics analysis.
 
 -  integrating multi-omics information and visualisation on the MGnify
-   web portal
+   web interface.
 
 `MetaPUF
 workflow <https://docs.google.com/presentation/d/1OIA4IHKQ8kE5WYTUXbCrVJvpGlPyx9SBQ5iZi5gURHg/edit#slide=id.g1529e8a0fb5_0_0>`__
