@@ -1,10 +1,9 @@
 **Welcome to MetaPUF**
 ======================
 
-MetaPUF is a set of piplines to generate study specific protein sequence
-database/(s) from metagenomics and/or metatranscriptomics data, used to
-analyse mass-spectrometry based metaproteomics and visualise the
-integrated information in the MGnify website. All the pipelines are
+The MetaPUF project has developed a set of open pipelines to generate study-specific (paired) protein sequence
+database/(s) from public metagenomics and/or metatranscriptomics data, used to analyse the paired mass-spectrometry based metaproteomics 
+datasets available in the PRIDE database and visualise the integrated information in the MGnify website. The pipelines are
 wrapped in Snakemake.
 
 Current version: 0.10, October 01, 2022
